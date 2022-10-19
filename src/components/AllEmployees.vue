@@ -84,7 +84,7 @@ export default {
     },
     print(abc) {
       this.tempUser = abc;
-      // console.log(this.tempUser);
+      console.log(this.tempUser);
       this.toggleDetalis();
     },
     toggleDetalis() {
